@@ -1,0 +1,11 @@
+{
+  "total_images": 5840,
+  "train_images": 5216,
+  "test_images": 624,
+  "normal_count": 1575,
+  "pneumonia_count": 4265,
+  "mean_height": 970.6006849315069,
+  "mean_width": 1327.825,
+  "std_height": 383.681910787306,
+  "std_width": 363.76431375734194
+}
